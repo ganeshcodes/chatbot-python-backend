@@ -14,8 +14,8 @@ This is a barebone python flask app with POST endpoint for returning dummy respo
    ```bash
    python3 app.py
 4. POST http://localhost:5000/chat is now available.
-5. Send a message from chatbot-react-app running on http://localhost:3000. 
-6. Send multiple long messages from chatbot-react-app to check text wrap and scroll bar appearance as messages fill the screen space. 
+5. Send a message from [ChatBot React App](https://github.com/ganeshcodes/chatbot-react-app) running on http://localhost:3000. 
+6. Send multiple long messages to check text wrap and scroll bar appearance as messages fill the screen space. 
 5. Fill in desired logic for getting the real useful response for user prompt (RAG/LangChain/LLMs interaction). - this part would go in separate project or branch to keep this to bare minimum. 
 
  ## Note
